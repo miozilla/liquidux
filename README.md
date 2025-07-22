@@ -1,5 +1,5 @@
 # liquidux 💧🛍️
-liquidux : Shopify Liquid # open-source template # Ruby # Looker # LookML # UX
+liquidux : eCommerce Shopify Liquid # open-source template # Ruby # Looker # LookML # UX
 
 
 ## Objective
@@ -9,7 +9,7 @@ liquidux : Shopify Liquid # open-source template # Ruby # Looker # LookML # UX
 - To use Liquid to customize dimensions and measure values using the html parameter.
 
 
-## Liquid 
+## Looker & Liquid 
 
 ![liquidux001.png](./media/liquidux001.png)
 
