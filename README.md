@@ -38,3 +38,8 @@ liquidux : eCommerce Shopify Liquid # open-source template # Ruby # Looker # Loo
 ![liquidux012.png](./media/liquidux012.png)
 
 ![liquidux013.png](./media/liquidux013.png)
+
+![liquidux014.png](./media/liquidux014.png)
+
+![liquidux015.png](./media/liquidux015.png)
+
